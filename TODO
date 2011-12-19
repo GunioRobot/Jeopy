@@ -16,4 +16,3 @@
    - on Mac OS X 10.6 (w/32bit kernel) and packages compiled from macports. Currently, a SIGSEGV may randomly occur when pushing a button.
      Backtrace indicates problem somewhere in SIP/PyQt bindings as far as I can tell.
      Adding osx.backtrace to record issue.
-   
